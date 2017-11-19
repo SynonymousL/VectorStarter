@@ -1,5 +1,5 @@
 # VectorStarter  
-SetUpForVectorWorks10J  
+WakeUpVectorWorks10J  
   
 特定条件下で起動できないため一時的に認証を回避するツールです。  
 起動には別途、以下のバッチファイル２点が必要になります。各自ご用意下さい。  
